@@ -19,3 +19,5 @@ This is a line providing more updates
 
 
 This is a new feature
+
+Another change on our new feature branch
