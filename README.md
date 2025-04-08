@@ -16,3 +16,6 @@ This is a new line in the markdown file
 
 
 This is a line providing more updates
+
+
+This is a new feature
